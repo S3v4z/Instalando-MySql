@@ -20,7 +20,6 @@ Ingresar al sitio oficial de MySQL y descargar el instalador correspondiente par
 
 Abrir el archivo descargado y aceptar los permisos de administrador para iniciar la instalación.
 
-**Captura 2**
 
 <img width="592" height="467" alt="image" src="https://github.com/user-attachments/assets/20620e21-1066-4f24-ba64-f061085272fe" />
 
